@@ -5,8 +5,8 @@
 ## DESCRIPTION
 
 This will be a Gem that extends Arel, adding experimental new
-functionality, parts of which might be added to Arel later once
-they've proven their stability and usefulness.
+functionality, parts of which might be implemented directly in
+Arel later once they've proven their stability and usefulness.
 
 ## Status
 
