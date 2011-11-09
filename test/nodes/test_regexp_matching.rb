@@ -1,5 +1,5 @@
 require 'helper'
-require 'farel'
+require 'farel/nodes/regexp_matching'
 
 module MiniTest
   module Assertions
