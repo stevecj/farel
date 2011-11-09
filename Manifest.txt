@@ -3,6 +3,6 @@ History.txt
 Manifest.txt
 README.txt
 Rakefile
-bin/../farel
-lib/../farel.rb
+bin/farel
+lib/farel.rb
 test/test_farel.rb

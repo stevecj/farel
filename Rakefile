@@ -13,7 +13,7 @@ Hoe.plugin :minitest
 Hoe.plugin :gemspec   # `gem install hoe-gemspec`
 Hoe.plugin :bundler   # `gem install hoe-bundler`
 
-Hoe.spec '../farel' do
+Hoe.spec 'farel' do
   developer('Steve Jorgensen', 'stevej@stevej.name')
 
   extra_deps << ['arel', '~>2.0']
