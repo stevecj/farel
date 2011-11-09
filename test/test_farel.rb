@@ -3,8 +3,6 @@ require 'farel'
 
 module Farel
   describe "something" do
-    it "needs test coverage" do
-      flunk "write tests or I will kneecap you"
-    end
+    # No tests at this level yet.
   end
 end
